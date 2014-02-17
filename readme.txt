@@ -1,5 +1,6 @@
 Author: Daniel Anderson
 Email: Daniel.r.anderson2013@gmail.com
+Name: Sudoku Solver
 Version: 1.0
 
 To run this program, double click on "Sudoku Solver.jar" or run from the command line. 
